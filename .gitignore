@@ -28,3 +28,6 @@ Py/Sim/dist/
 
 # ignore random ephemeral files 
 Py/Common/history
+
+# Linux editor's backup files
+*~
